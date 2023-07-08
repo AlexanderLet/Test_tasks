@@ -1,0 +1,13 @@
+create datebase testdb;
+
+create table users (ID int, name varchar(100), age int(100));
+
+insert into 
+	users (name, age) 
+values 
+	('John', '25'),
+	('Jane', '30'),
+	('Alex', '17');
+
+select * from users
+where name like '%A%';
