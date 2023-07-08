@@ -5,9 +5,9 @@
 **Задание 1: Работа с данными в Pandas**<br><b>
 Вот пример содержимого файла "data.csv" для первой части задания:<b>
 
-name,age,gender
+name,age,gender<b>
 John,25,Male
-Jane,30,Female
+Jane,30,Female<br>
 Alex,17,Male
 Emily,20,Female
 Mark,22,Male
